@@ -1,0 +1,26 @@
+SOURCE CODE MANAGEMENT AND VERSION CONTROL
+TO DOWNLOAD GIT:
+https://git-scm.com/
+GIT- SOFTWARE
+GITHUB-CLOUDSERVICE
+MICROSOFT
+TORVALDSLINUX
+WEBDESIGNING
+ELEARNINGGITHUB
+https://github.com/topics/e-learning
+BITBUCKET
+to check version
+git --version
+REPOSITORY:STORAGE OF PROJECT IN SNAPSHOTS
+GITINIT:INITIALIZE THE REPOSITIRY IN THE WORKING DIRECTORY
+.GIT :HIDDEN FOLDER
+ls-a:hiddenfolder
+ls:only visible
+cat is used to see the content
+git init :initialize git repository
+ run only once in a lifetime of a project
+touch :used to create 
+staging area :we can add files which we want to save
+this line is missing
+we can also do commit
+and we can add the content and push it in the repository
