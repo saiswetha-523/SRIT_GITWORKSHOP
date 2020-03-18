@@ -6,6 +6,8 @@ GITHUB-CLOUDSERVICE
 MICROSOFT
 TORVALDSLINUX
 WEBDESIGNING
+
+
 ELEARNINGGITHUB
 https://github.com/topics/e-learning
 BITBUCKET
@@ -23,4 +25,5 @@ touch :used to create
 staging area :we can add files which we want to save
 this line is missing
 we can also do commit
-and we can add the content and push it in the repository
+and we can add the content by using the add command and push it in the repository
+git rm --cached first.txt
